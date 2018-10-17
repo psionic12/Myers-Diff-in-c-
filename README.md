@@ -5,6 +5,7 @@ According to Myers Diff Algorithem(http://www.xmailserver.org/diff2.pdf), there 
 1. Find the end of the furthest reaching reverse D-path in diagonal k+∆.
 2. Find the middle snake and length of an optimal path for A and B.
 3. Get the SES(which is an exercise left to the reader).
+
 which were not given by a pseudocode, this code gives a implementation of them.
 
 The reason to use c++ is that with c++'s operator override feature, the code can be similar to the pseudocode while can be excicuted.
