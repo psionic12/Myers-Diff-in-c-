@@ -1,5 +1,5 @@
 # Myers-Diff-in-c-
-c++ Myers Algorithm implementation and some extra phoof.
+c++ Myers Algorithm implementation and some extra proof.
 
 According to Myers Diff Algorithem(http://www.xmailserver.org/diff2.pdf), there are 3 parts:
 1. Find the end of the furthest reaching reverse D-path in diagonal k+∆.
