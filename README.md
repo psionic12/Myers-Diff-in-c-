@@ -1,7 +1,7 @@
 # Myers-Diff-in-c-
 c++ Myers Algorithm implementation and some extra proof.
 
-According to Myers Diff Algorithem(http://www.xmailserver.org/diff2.pdf), there are 3 parts:
+According to Myers Diff Algorithm(http://www.xmailserver.org/diff2.pdf), there are 3 parts:
 1. Find the end of the furthest reaching reverse D-path in diagonal k+∆.
 2. Find the middle snake and length of an optimal path for A and B.
 3. Get the SES(which is an exercise left to the reader).
