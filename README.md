@@ -16,7 +16,7 @@ Besides, I think the paper missed a proof, which is very simple, but I think the
 
 in page 6, line 4, the code is as below:
  
-     f k = −D or k ≠ D and V[k − 1] < V[k + 1] Then
+     if k = −D or k ≠ D and V[k − 1] < V[k + 1] Then
         x ← V[k + 1]
      Else
         x ← V[k − 1]+1
